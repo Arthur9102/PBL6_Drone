@@ -9,7 +9,7 @@ clc;
 
 %% Bước 1: Định nghĩa tham số (từ luận văn, Table 3.5 và experiments)
 % Physical parameters
-m = 1.2;        % Mass (kg), từ mass breakdown (Table 3.5)
+m = 1.5;        % Mass (kg), từ mass breakdown (Table 3.5)
 g = 9.81;       % Gravity (m/s^2)
 rho = 1.225;    % Air density (kg/m^3)
 R = 0.15;       % Propeller radius (m, 12x6 prop)
